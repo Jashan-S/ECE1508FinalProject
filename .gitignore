@@ -25,3 +25,8 @@ bfg-*.jar
 Notebooks/__pycache__
 
 Notebooks/generated_mels/mel_speakers5.pt
+
+*.zip
+*.flac
+*.wav
+*.pt
