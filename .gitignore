@@ -1,0 +1,27 @@
+# Ignore data
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Model checkpoints
+checkpoints/*
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+bfg-*.jar
+
+Notebooks/__pycache__
+
+Notebooks/generated_mels/mel_speakers5.pt
